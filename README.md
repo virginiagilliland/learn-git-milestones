@@ -74,16 +74,16 @@ You should have a basic familiarity with the command line in case you need to do
 
 
 - [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
-- [ ] Use the CLI to navigate directories  
-  - [ ] List files in this directory: `ls`
-  - [ ] List files in this directory, including hidden: `ls -la`  
-  - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **??**
+- [x] Use the CLI to navigate directories  
+  - [x] List files in this directory: `ls`
+  - [x] List files in this directory, including hidden: `ls -la`  
+  - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [x] View your current directory and copy the full path: `pwd`
+  - [x] Open this README file in Atom and paste that path here: /c/Users/Virginia Gilliland/Documents/07 Fall 2020/Critical Web Design/learn-git-milestones
 - [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
-  - [ ] View the status of your repo: `git status`
-  - [ ] View the changed files of your repo: `git diff`
+  - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+  - [x] View the status of your repo: `git status`
+  - [x] View the changed files of your repo: `git diff`
   - [ ] Add all changed files to the staging area `git add .`
   - [ ] View the status of your repo `git status` to confirm it has been staged
   - [ ] Commit your changes with the message `commit #3 from CLI`
