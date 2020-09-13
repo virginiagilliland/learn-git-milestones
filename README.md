@@ -25,7 +25,7 @@ Create a Github account and make your first commit
 - [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
 - [x] Edit the README file (click the pencil icon) and add your favorite emoji here: 🐬
 <!-- I think i opened in atom before doing this but i went back and confirmed
-I understand to do it in Github-->
+I understand how to do it in Github-->
 - [x] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
 - [x] View the commit history and confirm your edits
 
@@ -64,6 +64,7 @@ You should be able to ...
 - [x] In Atom, edit this README file and add your *second* favorite emoji here: 😂
 - [x] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
 - [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
+<!-- Again I'm not sure if I committed #2 correctly the first time from Github desktop but i went back and confirmed I understand how to do so-->
 - [x] Click Push origin to push your changes back to remote repo  
 - [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
 - [x] Click on the README file and then click on History to see the history of this file
@@ -80,7 +81,7 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
   - [x] View your current directory and copy the full path: `pwd`
   - [x] Open this README file in Atom and paste that path here: /c/Users/Virginia Gilliland/Documents/07 Fall 2020/Critical Web Design/learn-git-milestones
-- [ ] Use Git on the CLI
+- [x] Use Git on the CLI
   - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [x] View the status of your repo: `git status`
   - [x] View the changed files of your repo: `git diff`
