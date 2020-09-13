@@ -24,6 +24,8 @@ Create a Github account and make your first commit
 - [x] [Create a Github account](https://github.com/join)
 - [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
 - [x] Edit the README file (click the pencil icon) and add your favorite emoji here: 🐬
+<!-- I think i opened in atom before doing this but i went back and confirmed
+I understand to do it in Github-->
 - [x] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
 - [x] View the commit history and confirm your edits
 
@@ -40,9 +42,9 @@ Mac:
 1. Install git using Homebrew `brew install git`
 1. Set your default shell to bash `chsh -s /bin/bash` - You'll be prompted to type a password. The command line doesn't give you feedback that you're typing. Just type your password and hit enter. Backspace a lot if you make a mistake.
 
-- [ ] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
-- [ ] [Install Github Desktop](https://desktop.github.com/)
-- [ ] Connect your Github account in Githhub Desktop
+- [x] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
+- [x] [Install Github Desktop](https://desktop.github.com/)
+- [x] Connect your Github account in Githhub Desktop
 
 
 
@@ -60,8 +62,8 @@ You should be able to ...
   - [x] Click "Clone" to make a local copy
 - [x] Open the repo in Atom: Repository > Open in Atom  
 - [x] In Atom, edit this README file and add your *second* favorite emoji here: 😂
-- [ ] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
-- [ ] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
+- [x] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
+- [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your changes back to remote repo  
 - [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
 - [ ] Click on the README file and then click on History to see the history of this file
